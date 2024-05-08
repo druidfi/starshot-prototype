@@ -2,4 +2,12 @@
 /composer.lock
 /patches.lock.json
 /vendor
-/web
+/web/*.*
+/web/core
+/web/modules
+/web/profiles
+/web/sites/*.*
+/web/sites/default/*.*
+/web/sites/default/files
+!/web/sites/default/default.settings.php
+/web/themes
