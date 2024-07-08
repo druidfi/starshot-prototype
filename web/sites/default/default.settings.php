@@ -11,5 +11,3 @@
 // These files are loaded automatically if found.
 //
 extract(Druidfi\Omen\Reader::get(get_defined_vars()));
-
-$settings['state_cache'] = TRUE;

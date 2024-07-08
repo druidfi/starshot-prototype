@@ -4,8 +4,10 @@
 /vendor
 /web/*.*
 /web/core
+/web/libraries
 /web/modules
 /web/profiles
+/web/recipes
 /web/sites/*.*
 /web/sites/default/*.*
 /web/sites/default/files
