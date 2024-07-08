@@ -1,5 +1,5 @@
 BUILD_TARGETS := composer-install
-DRUPAL_FRESH_TARGETS := up build drupal-install
+DRUPAL_FRESH_TARGETS := up build drupal-install drush-uli
 
 PHONY += drupal-install
 drupal-install:
